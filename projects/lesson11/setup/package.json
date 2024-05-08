@@ -4,6 +4,8 @@
   "description": "",
   "main": "lesson11.js",
   "scripts": {
+    "start-js": "node ./lesson11",
+    "start-ts": "ts-node ./lesson11.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

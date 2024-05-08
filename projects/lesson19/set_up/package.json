@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start-js": "node ./lesson19",
+    "start-ts": "ts-node ./lesson19.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nguyen Bao Huy",
