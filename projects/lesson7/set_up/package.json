@@ -1,0 +1,16 @@
+{
+  "name": "set_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson7.js",
+  "scripts": {
+    "start-js": "node ./lesson7",
+    "start-ts": "ts-node ./lesson7.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

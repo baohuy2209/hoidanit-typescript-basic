@@ -1,0 +1,16 @@
+{
+  "name": "set_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lesson6.js",
+  "scripts": {
+    "start-js": "node ./lesson6",
+    "start-ts": "ts-node ./lesson6.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

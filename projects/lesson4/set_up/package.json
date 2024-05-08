@@ -1,0 +1,16 @@
+{
+  "name": "set_up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson4JS.js",
+  "scripts": {
+    "start-js": "node ./lesson4JS.js",
+    "start-ts": "ts-node ./lesson4.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nguyen Bao Huy",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
